@@ -13,7 +13,7 @@ hadoop jar AnalyzeLog.jar Task<id> inputlog/ outputlog/task<id>
 
 Where the id is in the range of 1 to 4, corresponding to following tasks:
 
-![image-20190218021329600](/Users/ssuchao/Library/Application Support/typora-user-images/image-20190218021329600.png)
+![tasks](https://github.com/Issacwww/MapReduce-AnalyzeLog/blob/master/img/tasks.png)
 
 Then use the following command to check the output:
 
